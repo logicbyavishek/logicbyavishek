@@ -1,3 +1,17 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Avishek Dutta</h1>
 <h3 align="center">A passionate frontend developer from West Bengal ,India.</h3>
 
@@ -21,3 +35,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logicbyavishek&show_icons=true&locale=en" alt="logicbyavishek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyavishek&" alt="logicbyavishek" /></p>
+
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
