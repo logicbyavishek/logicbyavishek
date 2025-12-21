@@ -34,10 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logicbyavishek&show_icons=true&locale=en" alt="logicbyavishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logicbyavishek&" alt="logicbyavishek" /></p>
-
-
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
